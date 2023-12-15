@@ -1,0 +1,51 @@
+Ashok Vardhan Addala 
+Pleasanton, CA 
+9802676392
+ashokaddala@gmail.com
+
+Summary
+Sophisticated Machine Learning Engineer with over 8 years experience with background in independent research using intuitive, web-based architecture. Skilled in computer vision, health care and geo spatial analytics with documented history of discovering methods to intelligently use data to enhance user experience. Effectively researches techniques for novel approaches to problems, develops prototypes to assess viability of approach and deploys application into production yielding insights to expand customer-consciousness and reducing the workloads.
+
+Experience
+Senior Machine Learning Engineer 
+GE HealthCare                   12/2021 - Present
+San Ramon , CA
+Building open source high-level deep learning library called Fastestimor which is built on TensorFlow2 and PyTorch, helping the AI community to easily build a high-performance deep learning model and run it anywhere.
+Building state of the art toolkit called FastForward for model optimization and inferencing solution based on docker containers, aiming to deliver the fastest inferencing speed that meets hardware and system requirements.
+Collaborated with various Magnetic resonance(MR) imaging modality development teams to identify performance improvement opportunities and integrate trained models. Using optimization tools, I was able to reducing the inference speed and memory requirement by 50% on more than 3 occasions.
+Composed production-grade code to convert machine learning models into services and pipelines to be consumed at web-scale.
+Identified new problem areas and researched technical details to reproduce and build innovative solutions which are later consumed by Data Scientists.
+Championing for better code collaboration across various teams across the world, to consolidate and distribute the machine learning models and techniques to reduce over all product development time.
+Innovation Engineer(Machine Learning) 
+Fugro USA Marine                    03/2018 - 12/2021
+Lafayette , LA
+Built applications in geospatial domain using Computer Vision algorithms like object detection, instance and semantic segmentation to reduce manual effort of mapping features on sea floor and segmenting sea floor.
+Successfully implemented applications using TensorFlow, pytorch and mxnet on AWS which were used in 6 projects within year.
+Detected more than 3 million features and reducing project turn around time from 3 months to 1 week on multiple survey projects.
+Developed innovative ML inference pipelines on AWS using Step functions, Batch Transforms, lambda, and sagemaker.
+Experience with ML platforms like AWS sagemaker, ground truth, and Microsoft databricks for data labeling and training.
+Collaborated in building CI/CD workflows using Jenkins, Terraform, Git, and Docker containers.
+Experience in development, staging and production model versioning using mlflow.
+Systems Engineer 
+Tata Consultancy Services (TCS)                   10/2013 - 06/2016
+Mumbai , Maharashtra
+Performed financial data analysis to design strategy against other data management tools and techniques, increased data management efficiency by 20%.
+Dashboard: Proposed and developed visualization dashboards for enriched client experience on web-based platform using .Net and VB- Script. Integrated to Excel as independent application.
+Leveraging expertise in data across various data stores like SQL,DB2,Hive and Excel for efficient requirement gathering, data mining,data integrity and predictive analytics to drive banking business.
+Writing test cases and data extraction to build efficient test planning.
+
+Skills
+Deep Learning
+Computer Vision
+Medical Domain
+Geo Spatial Analytics
+Jenkins, CI/CD
+Financial Services
+
+Education
+University of North Carolina at Charlotte                   Data Science And Business Analytics 
+12/2018
+Charlotte , NC
+Jawaharlal Nehru Technological University Kakinada                   Electronics And Communications Engineering 
+05/2013
+Kakinada , Andhra Pradesh
